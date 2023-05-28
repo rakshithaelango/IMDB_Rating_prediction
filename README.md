@@ -11,6 +11,7 @@ In this DataSet you can able to see prediction of IMDB rating
 * Data preprocessing
 * Exploratory data analysis (EAD)
 * Applying Machine Learning
+
         * Supervised ML
 * Evaluating Model 
 
