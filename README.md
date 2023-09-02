@@ -35,14 +35,20 @@ from sklearn.tree import DecisionTreeRegressor
 
 Loading dataset by using pd.read_csv file 
 
-STEP 4: Exploring, Data cleaning And Data preprocessing. 
+* STEP 4: Exploring, Data cleaning And Data preprocessing. 
 
    * Dropping null values.
    * Duplicates values identifying.
    * Changing data types.
    * statistical Analysing.
        
-STEP 5: Exploratory data analysis (EDA)
+* STEP 5: Exploratory data analysis (EDA)
+
+![1693650612174](https://github.com/rakshithaelango/IMDB_Rating_prediction/assets/116090323/2c2152cb-9dc1-4a27-8226-789e376ff79d)
+![1693650612198](https://github.com/rakshithaelango/IMDB_Rating_prediction/assets/116090323/c0cb82a9-78e5-4689-acf2-456e028e2c5f)
+![1693650612181](https://github.com/rakshithaelango/IMDB_Rating_prediction/assets/116090323/d4ed2496-96e2-42b9-889f-02191bb88005)
+![1693650612192](https://github.com/rakshithaelango/IMDB_Rating_prediction/assets/116090323/36fa627d-8ec2-4d59-bf44-457b0035ae39)
+![1693650612186](https://github.com/rakshithaelango/IMDB_Rating_prediction/assets/116090323/048cd174-ce77-44d1-b13a-38eb04e5d5bb)
 
 * Splitting train / test
 * Applying Machine Learning (Supervised ML)
